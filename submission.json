@@ -1,0 +1,80 @@
+{
+        "owner": "5af1b21281c1c0155a075ea3",
+        "roles": [],
+        "_vid": 0,
+        "_fvid": 0,
+        "state": "submitted",
+        "_id": "5b4f1b2b37e001299a8c2226",
+        "data": {
+            "M1-panelFile": [],
+            "M1-programName": "Test",
+            "M1-programLocation": "",
+            "M1-assessmentFor": "",
+            "M1-otherCrop": "",
+            "M1-programCountry": "DZ",
+            "M2A1-totalAmount": 0,
+            "M2A1-productionAreas": [
+                {
+                    "totalAmount": 0,
+                    "name": "Area 1",
+                    "totalValue": 0
+                },
+                {
+                    "name": "Area 2",
+                    "totalAmount": 0,
+                    "totalValue": 0
+                },
+                {
+                    "name": "Area 3",
+                    "totalAmount": 0,
+                    "totalValue": 0
+                }
+            ],
+            "M2A1-sourceData": "",
+            "M2A1-year": "2018",
+            "M2A1-totalValue": 0,
+            "M2A2-farmerSaved": 10,
+            "M2A2-tradeLocalMarkets": 20,
+            "M2A2-farmingCooperatives": 30,
+            "M2A2-agriculturalFairs": 40,
+            "M2A3-productionAreas": [
+                {
+                    "name": "Area 1",
+                    "estimatedGap": "",
+                    "improvedPlantingMaterials": ""
+                },
+                {
+                    "name": "Area 2",
+                    "estimatedGap": "",
+                    "improvedPlantingMaterials": "",
+                    "currentlyAvailable": 234
+                },
+                {
+                    "name": "Area 3",
+                    "estimatedGap": "",
+                    "improvedPlantingMaterials": ""
+                }
+            ],
+            "M2A3-assessmentUnit": "",
+            "M2A3-loadAreas": false,
+            "M2A3-estimatedGap": "",
+            "M2A3-improvedPlantingMaterials": "",
+            "M6A20-productivityOutcomePOgoals": "",
+            "M6A20-productivityOutcomePOgoalsBp": "",
+            "M6A20-criticalConstraints": "",
+            "M6A20-ongoingbiDirectionalFlow": "",
+            "M6A20-enoughKeyPersonnel": "",
+            "M6A20-adequateBudget": "",
+            "M6A20-adequateFacilitiesBudget": "",
+            "M6A20-constructiveChanges": "",
+            "M6A20-invest10resources": "",
+            "M6A20-invest25resources": "",
+            "M6A20-investDoubleBudget": "",
+            "M6A20changesFillGaps": ""
+        },
+        "access": [],
+        "form": "5b4dda5937e001c6a88c146c",
+        "externalIds": [],
+        "created": "2018-07-18T10:49:15.463Z",
+        "modified": "2018-07-18T10:49:15.463Z"
+    }
